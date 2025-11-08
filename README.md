@@ -73,7 +73,7 @@ Your feedback helps improve MacroKey! Contributions and PRs are always welcome. 
 - **Steven Pereira (aka Cursed)** - Creator & Maintainer  
 ## 📜 License - CURSEDSEC OWNERSHIP EDICT
 
-GlassGuard is licensed under the **COE or CursedSec Ownership Edict License**.
+MacroKey is licensed under the **COE or CursedSec Ownership Edict License**.
 
 **This software is proprietary intellectual property owned exclusively by CursedSec.**
 
